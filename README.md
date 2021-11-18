@@ -1,10 +1,29 @@
-# ⚠ We're hiring at AE Studio! (Brazil remote) ⚠
+# We're hiring at AE Studio! (Brazil/US remote)
 
 Join us: https://ae.studio/join-us
+
+AE Studio is a mid-sized startup from California and we are looking for developers/designers to work remotely and/or from our office in Florianópolis. We have a team of highly skilled developers building products to **increase human agency** using the **most recent technologies** for startups as well as large companies like Samsung and Berkshire Hathaway. We have an awesome work environment and a highly productive process.
+
+We are looking for someone with **strong problem-solving skills** and **self-management skills**.
+
+## Main
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+## Other
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+## Platforms
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+![me](me.jpg)
 
 ---
 
 # BrunoLM [![Twitch Status](https://img.shields.io/twitch/status/brunolm?style=for-the-badge&logo=twitch&logoColor=fff&label=Twitch)](https://www.twitch.tv/brunolm)
+
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff&cacheSeconds=952000)](https://stackoverflow.com/users/340760/brunolm)
 [<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
 
