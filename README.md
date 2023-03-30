@@ -54,9 +54,9 @@ See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
 
 ### Stack Overflow
 
-- 82k+ reputation (Top 0.20% overall)
+- 96k+ reputation (Top 0.20% overall)
 - Rank ~#1220 of 623,527 ranked members (~12.7M total)
-- ~14.9 million people reached
+- ~20.3 million people reached
 - Gold badge in: javascript, c# (and others)
 
 ## Socials
