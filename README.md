@@ -1,11 +1,3 @@
-# We're hiring at AE Studio! (Brazil/US remote)
-
-Join us: https://ae.studio/join-us
-
-AE Studio is a mid-sized startup from California and we are looking for developers/designers to work remotely and/or from our office in Florianópolis. We have a team of highly skilled developers building products to **increase human agency** using the **most recent technologies** for startups as well as large companies like Samsung and Berkshire Hathaway. We have an awesome work environment and a highly productive process.
-
-We are looking for someone with **strong problem-solving skills** and **self-management skills**.
-
 ## Main
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
