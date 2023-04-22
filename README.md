@@ -58,6 +58,6 @@ See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
 
 ## Socials
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/brunolm/)
 
 [![Twitter](https://img.shields.io/twitter/follow/brunolm7?color=1DA1F2&label=Twitter&logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/BrunoLM7)
