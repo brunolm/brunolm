@@ -34,6 +34,7 @@ See some cool content in my blog: [brunolm.com/blog](https://brunolm.com/blog)
 
 - JavaScript
 - TypeScript
+- Nullstack
 - Node.js
 - C#
 - React
