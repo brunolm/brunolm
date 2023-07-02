@@ -39,7 +39,7 @@ I'm a Developer for Fun! Website: [brunolm.com](https://brunolm.com/), Blog: [br
 
 ### Stack Overflow
 
-- 96k+ reputation (Top 0.20% overall)
+- 97k+ reputation (Top 0.16% overall)
 - Rank ~#1220 of 623,527 ranked members (~12.7M total)
 - ~20.3 million people reached
 - Gold badge in: javascript, c# (and others)
