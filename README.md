@@ -3,7 +3,20 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff&cacheSeconds=952000)](https://stackoverflow.com/users/340760/brunolm)
 [<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
 
-I'm a Developer for Fun! Website: [brunolm.com](https://brunolm.com/), Blog: [brunolm.com/blog](https://brunolm.com/blog), LinkedIn: [brunolm.com/linkedin](https://www.linkedin.com/in/brunolm/)
+I'm a Developer for Fun!
+
+- Website: [brunolm.com](https://brunolm.com/)
+- Blog: [brunolm.com/blog](https://brunolm.com/blog)
+- LinkedIn: [brunolm.com/linkedin](https://www.linkedin.com/in/brunolm/)
+
+I’ve been working mostly with Web Development using
+JavaScript, TypeScript, Nullstack, React, Angular, Node.js, C#, SQL.
+
+I’ve built many custom-tailored internal systems and tools to manage entire companies. And I've also worked on websites that were used by millions of users.
+
+I love building tools to increase agency, since I started coding, I’ve been creating tools to make myself and the companies I worked for more productive.
+
+I’ve asked and answered a lot of questions on Stack Overflow. I'm a member since 2010 and I’ve gotten a lot of reputation points (over 97,000), making me the top 0.16% overall. I’ve also had a lot of fun on CodeWars, solving a lot of different challenges and climbing up to kyu 2.
 
 ## Tech
 
