@@ -3,7 +3,7 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff&cacheSeconds=952000)](https://stackoverflow.com/users/340760/brunolm)
 [<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
 
-I'm a Developer for Fun! Website: [brunolm.com](https://brunolm.com/), Blog: [brunolm.com/blog](https://brunolm.com/blog)
+I'm a Developer for Fun! Website: [brunolm.com](https://brunolm.com/), Blog: [brunolm.com/blog](https://brunolm.com/blog), LinkedIn: [brunolm.com/linkedin](https://www.linkedin.com/in/brunolm/)
 
 ## Tech
 
