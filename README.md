@@ -1,6 +1,6 @@
 # BrunoLM
 
-![Bruno — The Dev for Fun](bruno-dev-for-fun.jpg)
+![Bruno — The Dev for Fun](bruno-dev-for-fun.png)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/340760?style=for-the-badge&color=orange&label=Stack+Overflow&logo=stackoverflow&logoColor=fff&cacheSeconds=952000)](https://stackoverflow.com/users/340760/brunolm)
 [<img src="https://www.codewars.com/users/brunolm/badges/micro" height="28px">](https://www.codewars.com/users/brunolm)
